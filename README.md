@@ -6,10 +6,10 @@
 
 ## Tech Stack
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/250px-Laravel.svg.png" alt="Laravel">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="250px" height="auto" alt="PHP">   
-<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="250px" height="auto" alt="HTML"> 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="250px" height="auto" alt="CSS">   
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/250px-Laravel.svg.png"  width="30px" height="auto" alt="Laravel">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="30px" height="auto" alt="PHP">   
+<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="30px" height="auto" alt="HTML"> 
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="30px" height="auto" alt="CSS">   
 
 
 <img width="702" height="964" alt="Screenshot 2026-03-12 112356" src="https://github.com/user-attachments/assets/fc9aeeea-c020-4e37-aaf1-8c66e02ca5d3" />
